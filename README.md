@@ -1,4 +1,4 @@
 # CodePen
 
 CodePen Link:
-https://codepen.io/sanketbodke
+https://codepen.io/Techyrushi
